@@ -27,20 +27,20 @@ pip install opencv-python mediapipe
 
 ### 1. Dumbbell Curl Counter
 
-To count dumbbell curls from a video, run the `curls_counter.py` script. Update the video file path in the script accordingly:
+To count dumbbell curls from a video, run the `trainer.py` script. Update the video file path in the script accordingly:
 
 ```bash
-python curls_counter.py
+python trainer.py
 ```
 
 The script displays the video with a graphical overlay showing the curl count and the correctness of the exercise form.
 
 ### 2. Pose Estimation Demo
 
-To run a basic pose estimation demo, execute the `pose_demo.py` script. You can adjust the video file path in the script:
+To run a basic pose estimation demo, execute the `posing.py` script. You can adjust the video file path in the script:
 
 ```bash
-python pose_demo.py
+python posing.py
 ```
 
 This script uses Mediapipe to estimate key landmarks and angles of body poses.
