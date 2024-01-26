@@ -11,6 +11,12 @@ This repository contains Python scripts using OpenCV and Mediapipe for pose esti
 - OpenCV
 - Mediapipe
 
+
+
+https://github.com/Aditya-tec/Pose-Estimation-and-Exercise-Counter/assets/75620159/07a91f20-3f31-461c-8761-c472b8b8db6f
+
+
+
 You can install the required packages using the following command:
 
 ```bash
